@@ -1,7 +1,7 @@
 # Game Design Roadmap
 A blender-first game design roadmap
 
-1.0 Foundation Setup
+- 1.0 Foundation Setup
   - 1.1 Create GitHub account
     - 1.1.1 Make a private repo for your notes<br>
 - 1.2 Install Obsidian<br>
@@ -50,12 +50,12 @@ A blender-first game design roadmap
   - 5.4 OpenGameArt
     - 5.4.1 Free samples → link back to itch + Fiverr
 
-6.0 Workflow Loop
- 6.1 Learn → document in Obsidian
- 6.2 Produce small asset
- 6.3 Add to itch.io
- 6.4 Repurpose to OpenGameArt (lite version)
- 6.5 Write Substack post about the creation
- 6.6 Add related Fiverr service once comfortable
+- 6.0 Workflow Loop
+  - 6.1 Learn → document in Obsidian
+  - 6.2 Produce small asset
+  - 6.3 Add to itch.io
+  - 6.4 Repurpose to OpenGameArt (lite version)
+  - 6.5 Write Substack post about the creation
+  - 6.6 Add related Fiverr service once comfortable
 
-You don’t need to learn “everything”—you only need one replicable loop that produces a thing you can sell or showcase. Everything else (the platforms, the portfolio, the service offerings) is just a multiplier.
+NOTE: You don’t need to learn “everything”—you only need one replicable loop that produces a thing you can sell or showcase. Everything else (the platforms, the portfolio, the service offerings) is just a multiplier.
