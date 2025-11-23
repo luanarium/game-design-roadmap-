@@ -10,9 +10,9 @@ A blender-first game design roadmap
 
 - 2.0 Monetization Platforms<br>
     - 2.1 Substack (writing, devlogs, educational posts)<br>
-      - 2.2 Itch.io (portfolio hub + downloadable assets)<br>
-      - 2.3 Fiverr (service-based revenue)<br>
-      - 2.4 OpenGameArt (secondary exposure + backlinks)
+    - 2.2 Itch.io (portfolio hub + downloadable assets)<br>
+    - 2.3 Fiverr (service-based revenue)<br>
+    - 2.4 OpenGameArt (secondary exposure + backlinks)
 
 - 3.0 Skill Pipeline<br>
     - 3.1 Blender: Low-poly modeling<br>
