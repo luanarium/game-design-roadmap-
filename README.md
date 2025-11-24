@@ -32,7 +32,7 @@ A blender-first game design roadmap
     - 3.6.1 [Blender 2.8 Fundamentals](https://studio.blender.org/training/blender-2-8-fundamentals/)
     - 3.6.2 [Old versions of Blender](https://download.blender.org/release/)
     - 3.6.3 [How to rig anything in blender](https://www.youtube.com/watch?v=Y2SWwZmwrwM)
-    - 3.6.4 [Learn These 5 Blender Tools and Model ANYTHING You Want](Learn These 5 Blender Tools and Model ANYTHING You Want)
+    - 3.6.4 [Learn These 5 Blender Tools and Model ANYTHING You Want](https://www.youtube.com/watch?v=phGyFooChpc)
     - 
 
 - 4.0 Deliverables
