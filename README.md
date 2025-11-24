@@ -52,7 +52,7 @@ A blender-first game design roadmap
     - 5.4.1 Free samples → link back to itch + Fiverr
 
 - 6.0 Workflow Loop
-  - 6.1 Learn → document in Obsidian
+  - 6.1 Learn → document in notes
   - 6.2 Produce small asset
   - 6.3 Add to itch.io
   - 6.4 Repurpose to OpenGameArt (lite version)
