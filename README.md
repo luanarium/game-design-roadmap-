@@ -30,6 +30,8 @@ A blender-first game design roadmap
     - 3.5.3 Ursina (Python-based minimal pipeline)
   - 3.6 Resources
     - 3.6.1 [Blender 2.8 Fundamentals](https://studio.blender.org/training/blender-2-8-fundamentals/)
+    - 3.6.2 [Old versions of Blender](https://download.blender.org/release/)
+    - 
 
 - 4.0 Deliverables
   - 4.1 Low-poly models
