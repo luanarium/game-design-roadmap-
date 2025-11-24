@@ -4,9 +4,10 @@ A blender-first game design roadmap
 - 1.0 Foundation Setup
   - 1.1 Create GitHub account
     - 1.1.1 Make a private repo for your notes<br>
-- 1.2 Install Obsidian<br>
-  - 1.2.1 Sync Obsidian vault to GitHub <br>
-    - 1.2.2 Capture everything you learn as atomic notes.
+- 1.2 Capture everything you learn as atomic notes.<br>
+  - 1.2.1 Intall Obsidian
+    - 1.2.2 Sync Obsidian vault to GitHub <br>
+  - 1.3 Alternative: NotebookLM
 
 - 2.0 Monetization Platforms<br>
     - 2.1 Substack (writing, devlogs, educational posts)<br>
@@ -16,7 +17,7 @@ A blender-first game design roadmap
 
 - 3.0 Skill Pipeline<br>
     - 3.1 Blender: Low-poly modeling<br>
-    - 3.1.1 Geometry basics<br>
+      - 3.1.1 Geometry basics<br>
       - 3.1.2 Topology habits<br>
     - 3.2 Blender: Rigging<br>
     - 3.3 Blender: Animation<br>
