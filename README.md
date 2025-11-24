@@ -3,47 +3,47 @@ A blender-first game design roadmap
 
 - 1.0 Foundation Setup
   - 1.1 Create GitHub account
-    - 1.1.1 Make a private repo for your notes<br>
-- 1.2 Capture everything you learn as atomic notes.<br>
-  - 1.2.1 Intall Obsidian
-    - 1.2.2 Sync Obsidian vault to GitHub <br>
-  - 1.3 Alternative: NotebookLM
+    - 1.1.1 Make a private repo for your notes
+  - 1.2 Capture everything you learn as atomic notes
+    - 1.2.1 Install Obsidian
+      - 1.2.1.1 Sync Obsidian vault to GitHub
+    - 1.2.2 Alternative: NotebookLM
 
-- 2.0 Monetization Platforms<br>
-    - 2.1 Substack (writing, devlogs, educational posts)<br>
-    - 2.2 Itch.io (portfolio hub + downloadable assets)<br>
-    - 2.3 Fiverr (service-based revenue)<br>
-    - 2.4 OpenGameArt (secondary exposure + backlinks)
+- 2.0 Monetization Platforms
+  - 2.1 Substack (writing, devlogs, educational posts)
+  - 2.2 Itch.io (portfolio hub + downloadable assets)
+  - 2.3 Fiverr (service-based revenue)
+  - 2.4 OpenGameArt (secondary exposure + backlinks)
 
-- 3.0 Skill Pipeline<br>
-    - 3.1 Blender: Low-poly modeling<br>
-      - 3.1.1 Geometry basics<br>
-      - 3.1.2 Topology habits<br>
-    - 3.2 Blender: Rigging<br>
-    - 3.3 Blender: Animation<br>
-- 3.4 Blender: Texturing<br>
-  - 3.4.1 UV unwrapping<br>
-  - 3.4.2 Stylized vs realistic workflows<br>
-- 3.5 Simple engine deployment for player models, animations or textrues<br>
-  - 3.5.1 Godot pipeline<br>
-  - 3.5.2 Unreal pipeline<br>
-  - 3.5.3 Ursina (Python-based minimal pipeline)<br>
+- 3.0 Skill Pipeline
+  - 3.1 Blender: Low-poly modeling
+    - 3.1.1 Geometry basics
+    - 3.1.2 Topology habits
+  - 3.2 Blender: Rigging
+  - 3.3 Blender: Animation
+  - 3.4 Blender: Texturing
+    - 3.4.1 UV unwrapping
+    - 3.4.2 Stylized vs realistic workflows
+  - 3.5 Simple engine deployment for player models, animations, or textures
+    - 3.5.1 Godot pipeline
+    - 3.5.2 Unreal pipeline
+    - 3.5.3 Ursina (Python-based minimal pipeline)
 
-- 4.0 Deliverables<br>
-  - 4.1 Low-poly models<br>
-  - 4.2 Rigged characters<br>
-  - 4.3 Animation packs<br>
-  - 4.4 Texture packs<br>
-  - 4.5 Engine-ready asset bundles<br>
+- 4.0 Deliverables
+  - 4.1 Low-poly models
+  - 4.2 Rigged characters
+  - 4.3 Animation packs
+  - 4.4 Texture packs
+  - 4.5 Engine-ready asset bundles
 
-- 5.0 Revenue Mapping<br>
-  - 5.1 Fiverr<br>
-    - 5.1.1 “Rig this model”<br>
-    - 5.1.2 “Texture this model”<br>
-    - 5.1.3 “Create 5-animation pack”<br>
-  - 5.2 Itch.io<br>
-    - 5.2.1 Sell asset packs<br>
-    - 5.2.2 Use as portfolio hub<br>
+- 5.0 Revenue Mapping
+  - 5.1 Fiverr
+    - 5.1.1 “Rig this model”
+    - 5.1.2 “Texture this model”
+    - 5.1.3 “Create 5-animation pack”
+  - 5.2 Itch.io
+    - 5.2.1 Sell asset packs
+    - 5.2.2 Use as portfolio hub
   - 5.3 Substack
     - 5.3.1 Devlogs
     - 5.3.2 Educational posts
