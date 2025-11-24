@@ -24,7 +24,7 @@ A blender-first game design roadmap
 - 3.4 Blender: Texturing<br>
   - 3.4.1 UV unwrapping<br>
   - 3.4.2 Stylized vs realistic workflows<br>
-- 3.5 Engine deployment<br>
+- 3.5 Simple engine deployment for player models, animations or textrues<br>
   - 3.5.1 Godot pipeline<br>
   - 3.5.2 Unreal pipeline<br>
   - 3.5.3 Ursina (Python-based minimal pipeline)<br>
